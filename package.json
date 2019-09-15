@@ -1,0 +1,26 @@
+{
+  "name": "electron",
+  "version": "1.0.0",
+  "description": "this is electron",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spf1314as/electron.git"
+  },
+  "keywords": [
+    "electorn"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/spf1314as/electron/issues"
+  },
+  "homepage": "https://github.com/spf1314as/electron#readme",
+  "devDependencies": {
+    "electron": "^6.0.9"
+  }
+}
